@@ -1,4 +1,4 @@
-
+// written by Rene Seidlitz
 // ATMEL ATTINY 25/45/85 / ARDUINO
 //
 //                  +-\/-+
